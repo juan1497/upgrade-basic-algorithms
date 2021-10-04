@@ -23,5 +23,5 @@ console.log(rickAndMortyCharacterss[0],rickAndMortyCharacterss[rickAndMortyChara
 // 1.6 Elimina el segundo elemento del array y muestra el array por consola.
 // const rickAndMortyCharacters = ["Rick", "Beth", "Jerry", "Morty", "Summer", "Lapiz Lopez"];
 const rickAndMortyCharacters2 = ["Rick", "Beth", "Jerry", "Morty", "Summer", "Lapiz Lopez"];
-rickAndMortyCharacters2.splice(1,1)
-console.log(rickAndMortyCharacters2)
+rickAndMortyCharacters2.splice(1,1);
+console.log(rickAndMortyCharacters2);
